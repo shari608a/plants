@@ -1,13 +1,14 @@
-<<<<<<< HEAD
+
 Testing
 line 1
 line 2
 line 3
 line 4
 line 5
-=======
 Dry. and everything is my favorite color .
 The two moons are small. can be problem for wolfman
 But the mummy will appreciate the lack of humidity 
 this is test wolfman edit
->>>>>>> 2b498ffd7f88e19e8ebb3f0675d35e88c9d03275
+
+this is test draculla edit
+
